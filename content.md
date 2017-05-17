@@ -9,8 +9,8 @@
 </div>
 
 <!-- NOTES -->
-- A Frame is by Mozilla VR
-- A Frame works with Cordova
+- A-Frame is by Mozilla VR
+- A-Frame works with Cordova
 - Onboard web developers into the 3D and VR world with easy-to-use tools
 - Prototype WebVR experiences faster
 
@@ -230,7 +230,7 @@ A web framework for building virtual reality experiences
   <li>Did you bring a laptop? GOOD!</li>
   <li>Did you bring a phone that's not the Moto X Play?</li>
   <li>Do you have a USB Cable? AWESOME!!!</li>
-  <li>You have a cardboard</li>
+  <li>You have a Cardboard</li>
 </ul>
 
 ---
@@ -239,13 +239,13 @@ A web framework for building virtual reality experiences
 # Step 1: Use the source
 
 <ul>
-  <li> Grab the following source:</li>
+  <li> Grab the following source: [https://github.com/infil00p/360-image-gallery-boilerplate](https://github.com/infil00p/360-image-gallery-boilerplate)</li>
   <li> (If the Internet goes down, we have USB Keys)</li>
   <li> Modify the index.html </li>
 </ul>
 
 ---
-## Step 1: Contined
+## Step 1: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -270,7 +270,7 @@ A web framework for building virtual reality experiences
 - Put stuff inside our scene...
 
 ---
-## Step 1: Contined
+## Step 1: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -306,7 +306,7 @@ A web framework for building virtual reality experiences
 </ul>
 
 ---
-## Step 2: Contined
+## Step 2: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -334,7 +334,7 @@ A web framework for building virtual reality experiences
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 ---
 ## Step Two: Inspector
 
@@ -388,7 +388,7 @@ AFRAME.registerComponent('scrollleft', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 ---
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
@@ -402,7 +402,7 @@ AFRAME.registerComponent('scrollleft', {
 </ul>
 
 ---
-## Step 4: Contined
+## Step 4: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -439,7 +439,7 @@ AFRAME.registerComponent('scrollleft', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 ---
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
@@ -453,7 +453,7 @@ AFRAME.registerComponent('scrollleft', {
 </ul>
 
 ---
-## Step 5: Contined
+## Step 5: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -475,10 +475,10 @@ AFRAME.registerComponent('scrollleft', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 ---
-## Step 5: Contined
+## Step 5: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -489,10 +489,10 @@ AFRAME.registerComponent('scrollleft', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 ---
-## Step 5: Contined
+## Step 5: Continued
 
 <!-- .slide: data-background="media/img/aframe.jpg" data-transition="slide-in none" -->
 
@@ -513,7 +513,7 @@ AFRAME.registerComponent('set-image', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 ---
 ## Step 5: Last Code Slide: PROMISE
@@ -546,7 +546,7 @@ AFRAME.registerComponent('set-image', {
 <!-- .element: class="stretch" -->
 
 <!-- NOTES -->
-- Get some UI awesomness happening
+- Get some UI awesomeness happening
 
 
 ---
